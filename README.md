@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Mickael Keita
-🔭 **I'm currently working on** a dating website project.<br>🌱 **I'm currently learning** [Appwrite](https://appwrite.io).<br>🎓 **In my final year of a Bachelor's in Web Development:** I'm looking for a company to join under an apprenticeship contract. If you’re &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;looking for someone motivated, detail-oriented, and ready to take on new challenges, I’d be thrilled to work with you!<br>📫 **How to reach me:** You can contact me at **keitamickaelpro@gmail.com**. I’m always open to collaboration, discussing ideas, or simply &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; connecting with fellow developers!
+🔭 **I'm currently working on** a dating website project.<br>🌱 **I'm currently learning** [Appwrite](https://appwrite.io).<br>🎓 **In my final year of a Bachelor's in Web Development:** I'm looking for a company to join under an apprenticeship contract. If you’re &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;looking for someone motivated, detail-oriented, and ready to take on new challenges, I’d be thrilled to work with you!<br>📫 **How to reach me:** You can contact me at **keitamickaelpro@gmail.com**. I’m always open to collaboration, discussing ideas, or  &nbsp; &nbsp; &nbsp; &nbsp;simply connecting with fellow developers!
 
 
 ## 🌐 Socials:
